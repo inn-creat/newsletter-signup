@@ -1,0 +1,23 @@
+body{
+    background-color: lightslategray;
+    width: fit-content;
+    margin: auto;
+    height: fit-content;
+}
+.message{
+    background-color: white;
+    padding: 20px;
+    border-radius:20px;
+    display: inline-block;
+    width: min-content;
+    height: max-content;
+}#button{
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 1rem;
+    text-decoration: none;
+}
